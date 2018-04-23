@@ -1,0 +1,31 @@
+UPDATE products SET BrandId='BR0001' WHERE brand='VILLAGGIO';
+UPDATE products SET BrandId='BR0002' WHERE brand='Great Value';
+UPDATE products SET BrandId='BR0003' WHERE brand='Dempster%';
+UPDATE products SET BrandId='BR0004' WHERE brand='Your Fresh Market';
+UPDATE products SET BrandId='BR0005' WHERE brand='Donut Time';
+UPDATE products SET BrandId='BR0006' WHERE brand='Generic';
+UPDATE products SET BrandId='BR0007' WHERE brand='Our Finest';
+UPDATE products SET BrandId='BR0008' WHERE brand='All But Gluten';
+UPDATE products SET BrandId='BR0009' WHERE brand='Old El Paso';
+UPDATE products SET BrandId='BR0011' WHERE brand='Tia Rosa';
+UPDATE products SET BrandId='BR0012' WHERE brand='Pepsi';
+UPDATE products SET BrandId='BR0013' WHERE brand='Coca-Cola';
+UPDATE products SET BrandId='BR0014' WHERE brand='Dr.Pepper';
+UPDATE products SET BrandId='BR0015' WHERE brand='7UP';
+UPDATE products SET BrandId='BR0016' WHERE brand='Schweepes';
+UPDATE products SET BrandId='BR0017' WHERE brand='Perrier';
+UPDATE products SET BrandId='BR0018' WHERE brand='Sprite';
+UPDATE products SET BrandId='BR0019' WHERE brand='Allen%';
+UPDATE products SET BrandId='BR0020' WHERE brand='Oasis';
+UPDATE products SET BrandId='BR0021' WHERE brand='Sun-Rype Products%';
+UPDATE products SET BrandId='BR0022' WHERE brand='McCaf%';
+UPDATE products SET BrandId='BR0023' WHERE brand='Keurig';
+UPDATE products SET BrandId='BR0024 WHERE brand='Tetley Tea';
+UPDATE products SET BrandId='BR0025' WHERE brand='Nabob';
+
+
+UPDATE products SET CategoryId='CTG0001' WHERE Category='Bakery';
+UPDATE products SET CategoryId='CTG0002' WHERE Category='Drinks';
+
+
+Warning: fopen(Log/20180423.txt): failed to open stream: No such file or directory in C:\xampp\htdocs\ThePitStop_PHP\includes\function_base.php on line 34
